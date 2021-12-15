@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MenorNotaAlunos
+public class CTAtividade3
 {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
