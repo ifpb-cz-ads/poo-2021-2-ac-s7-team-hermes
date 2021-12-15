@@ -1,4 +1,4 @@
-public class NomesDiasdaSemana
+public class CBBAtividadePratica5
 {
     public static void main(String[] args){
         String[] dias = {"Domingo", "Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado"};
