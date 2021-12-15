@@ -22,6 +22,5 @@ public class CTAtividade3
         System.out.println("A média de notas é: " +media);
         System.out.println("O numero de notas acima da média é: " +acima);
         System.out.println("e o número de notas abaixo da média é: " +abaixo);
-        //System.out.println(num[maior]);
     }
 }
