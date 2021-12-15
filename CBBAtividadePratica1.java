@@ -1,4 +1,4 @@
-public class Array100
+public class CBBAtividadePratica1
 {
     public static void main(String[] args){
         int[] num = new int[100];
